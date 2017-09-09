@@ -1,0 +1,15 @@
+# Site settings
+title:        "block-Log"
+description:  "N/A"
+baseurl:      "" # the subpath of your site, e.g. /blog/
+url:          "http://hsquillin.github.io" # the base hostname & protocol for your site
+permalink:    /:year/:title
+github:       "HSQuillin"
+twitter:      "yourusername"
+email:        "mail@example.com"
+disqus-id:    "example" #leave blank if you dont want comments.
+
+# Build settings
+markdown:     kramdown
+sass:
+    style: :compressed
